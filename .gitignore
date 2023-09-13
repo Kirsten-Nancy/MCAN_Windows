@@ -1,0 +1,6 @@
+weibo_data/
+twitter_data/
+bert-base-chinese/
+log/
+vgg19-dcbb9e9d.pth
+.vs/
